@@ -60,7 +60,7 @@ LeetCode刷题GitHub。
 162 |[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)| | | |中等
 163 |[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/)| | | |中等
 167 |[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| | | |简单
-169 |[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | | |简单
+169 |[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[169_Majority_Element.py](https://github.com/Darion888/LeetCode/blob/master/Python3/169_Majority_Element.py)|O(*nlgn*) or O(*n*)|O(*1*)|简单
 189 |[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)| | | |简单
 209	|[Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| | | |中等
 216	|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)| | | |中等
