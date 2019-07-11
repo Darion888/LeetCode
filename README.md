@@ -76,7 +76,7 @@ LeetCode刷题GitHub。
 277	|[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity/)| | | |中等
 280	|[Wiggle Sort](https://leetcode-cn.com/problems/wiggle-sort/)| | | |中等
 283	|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)| | | |简单
-287	|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | | |中等
+287	|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[287_Find_the_Duplicate_Number.py](https://github.com/Darion888/LeetCode/blob/master/Python3/287_Find_the_Duplicate_Number.py)|O(*n*)|O(*1*)|中等
 289	|[Game of Life](https://leetcode-cn.com/problems/game-of-life/)| | | |中等
 370	|[Range Addition](https://leetcode-cn.com/problems/range-addition/)| | | |中等
 380	|[Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)| | | |中等
