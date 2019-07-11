@@ -103,8 +103,8 @@ LeetCode刷题GitHub。
 621	|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)| | | |中等
 624	|[Maximum Distance in Arrays](https://leetcode-cn.com/problems/maximum-distance-in-arrays/)| | | |简单
 628	|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)| | | |简单
-643	|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)| | | |简单
-644	|[Maximum Average Subarray II](https://leetcode-cn.com/problems/maximum-average-subarray-ii/)| | | |困难
+643	|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[643_Maximum_Average_Subarray_I.py](https://github.com/Darion888/LeetCode/blob/master/Python3/643_Maximum_Average_Subarray_I.py)|O(*n*)|O(*1*)|简单
+644	|[Maximum Average Subarray II](https://leetcode-cn.com/problems/maximum-average-subarray-ii/)||| |困难
 661	|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/)| | | |简单
 665	|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)| | | |简单
 667	|[Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| | | |中等
