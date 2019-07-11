@@ -182,3 +182,138 @@ LeetCode刷题GitHub。
 1086	|[High Five](https://leetcode-cn.com/problems/high-five/)| | | |简单
 1089	|[Duplicate Zeros](https://leetcode-cn.com/problems/duplicate-zeros/)| | | |简单
 1099	|[Two Sum Less Than K](https://leetcode-cn.com/problems/two-sum-less-than-k/)| | | |简单
+
+[String](https://leetcode-cn.com/problemset/all/?topicSlugs=string)
+-------
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)||||中等
+5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)||||中等
+6|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)||||中等
+8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)||||中等
+10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||困难
+12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)||||中等
+13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)||||简单
+14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)||||简单
+17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||中等
+20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||||简单
+22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||中等
+28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)||||简单
+30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)||||困难
+32|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)||||困难
+38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)||||简单
+43|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)||||中等
+44|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)||||困难
+49|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)||||中等
+58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)||||简单
+65|[Valid Number](https://leetcode-cn.com/problems/valid-number/)||||困难
+67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)||||简单
+68|[Text Justification](https://leetcode-cn.com/problems/text-justification/)||||困难
+71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)||||中等
+72|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)||||困难
+76|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)||||困难
+87|[Scramble String](https://leetcode-cn.com/problems/scramble-string/)||||困难
+91|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)||||中等
+93|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)||||中等
+97|[Interleaving String](https://leetcode-cn.com/problems/interleaving-string/)||||困难
+115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)||||困难
+125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)||||简单
+126|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)||||困难
+151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)||||中等
+157|[Read N Characters Given Read4](https://leetcode-cn.com/problems/read-n-characters-given-read4/)||||简单
+158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)||||困难
+159|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)||||困难
+161|[One Edit Distance](https://leetcode-cn.com/problems/one-edit-distance/)||||中等
+165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)||||中等
+186|[Reverse Words in a String II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii/)||||中等
+214|[Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome/)||||困难
+227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/)||||中等
+249|[Group Shifted Strings](https://leetcode-cn.com/problems/group-shifted-strings/)||||中等
+271|[Encode and Decode Strings](https://leetcode-cn.com/problems/encode-and-decode-strings/)||||中等
+273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)||||困难
+293|[Flip Game](https://leetcode-cn.com/problems/flip-game/)||||简单
+336|[Palindrome Pairs](https://leetcode-cn.com/problems/palindrome-pairs/)||||困难
+340|[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)||||困难
+344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)||||简单
+345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)||||简单
+383|[Ransom Note](https://leetcode-cn.com/problems/ransom-note/)||||简单
+385|[Mini Parser](https://leetcode-cn.com/problems/mini-parser/)||||中等
+387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)||||简单
+408|[Valid Word Abbreviation](https://leetcode-cn.com/problems/valid-word-abbreviation/)||||简单
+415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)||||简单
+434|[Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)||||简单
+443|[String Compression](https://leetcode-cn.com/problems/string-compression/)||||简单
+459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)||||简单
+468|[Validate IP Address](https://leetcode-cn.com/problems/validate-ip-address/)||||中等
+520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/)||||简单
+521|[Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)||||简单
+522|[Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/)||||中等
+527|[Word Abbreviation](https://leetcode-cn.com/problems/word-abbreviation/)||||困难
+536|[Construct Binary Tree from String](https://leetcode-cn.com/problems/construct-binary-tree-from-string/)||||中等
+537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/)||||中等
+539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)||||中等
+541|[Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/)||||简单
+544|[Output Contest Matches](https://leetcode-cn.com/problems/output-contest-matches/)||||中等
+551|[Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/)||||简单
+553|[Optimal Division](https://leetcode-cn.com/problems/optimal-division/)||||中等
+555|[Split Concatenated Strings](https://leetcode-cn.com/problems/split-concatenated-strings/)||||中等
+556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/)||||中等
+557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)||||简单
+564|[Find the Closest Palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)||||困难
+583|[Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)||||中等
+591|[Tag Validator](https://leetcode-cn.com/problems/tag-validator/)||||困难
+606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||简单
+609|[Find Duplicate File in System](https://leetcode-cn.com/problems/find-duplicate-file-in-system/)||||中等
+616|[Add Bold Tag in String](https://leetcode-cn.com/problems/add-bold-tag-in-string/)||||中等
+632|[Smallest Range](https://leetcode-cn.com/problems/smallest-range/)||||困难
+635|[Design Log Storage System](https://leetcode-cn.com/problems/design-log-storage-system/)||||中等
+647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)||||中等
+657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/)||||简单
+678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)||||中等
+680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)||||简单
+681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)||||中等
+686|[Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/)||||简单
+696|[Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/)||||简单
+709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/)||||简单
+722|[Remove Comments](https://leetcode-cn.com/problems/remove-comments/)||||中等
+730|[Count Different Palindromic Subsequences](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)||||困难
+736|[Parse Lisp Expression](https://leetcode-cn.com/problems/parse-lisp-expression/)||||困难
+758|[Bold Words in String](https://leetcode-cn.com/problems/bold-words-in-string/)||||简单
+761|[Special Binary String](https://leetcode-cn.com/problems/special-binary-string/)||||困难
+767|[Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)||||中等
+770|[Basic Calculator IV](https://leetcode-cn.com/problems/basic-calculator-iv/)||||困难
+772|[Basic Calculator III](https://leetcode-cn.com/problems/basic-calculator-iii/)||||困难
+788|[Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/)||||简单
+791|[Custom Sort String](https://leetcode-cn.com/problems/custom-sort-string/)||||中等
+800|[Similar RGB Color](https://leetcode-cn.com/problems/similar-rgb-color/)||||简单
+804|[Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/)||||简单
+809|[Expressive Words](https://leetcode-cn.com/problems/expressive-words/)||||中等
+816|[Ambiguous Coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)||||中等
+819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)||||简单
+824|[Goat Latin](https://leetcode-cn.com/problems/goat-latin/)||||简单
+831|[Masking Personal Information](https://leetcode-cn.com/problems/masking-personal-information/)||||中等
+833|[Find And Replace in String](https://leetcode-cn.com/problems/find-and-replace-in-string/)||||中等
+842|[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)||||中等
+848|[Shifting Letters](https://leetcode-cn.com/problems/shifting-letters/)||||中等
+856|[Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)||||中等
+859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/)||||简单
+890|[Find and Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/)||||中等
+893|[Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)||||简单
+899|[Orderly Queue](https://leetcode-cn.com/problems/orderly-queue/)||||困难
+916|[Word Subsets](https://leetcode-cn.com/problems/word-subsets/)||||中等
+917|[Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters/)||||简单
+925|[Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/)||||简单
+929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)||||简单
+936|[Stamping The Sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)||||困难
+937|[Reorder Log Files](https://leetcode-cn.com/problems/reorder-log-files/)||||简单
+966|[Vowel Spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker/)||||中等
+1003|[Check If Word Is Valid After Substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)||||中等
+1016|[Binary String With Substrings Representing 1 To N](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n/)||||中等
+1023|[Camelcase Matching](https://leetcode-cn.com/problems/camelcase-matching/)||||中等
+1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)||||中等
+1065|[Index Pairs of a String](https://leetcode-cn.com/problems/index-pairs-of-a-string/)||||简单
+1071|[Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)||||简单
+1081|[Smallest Subsequence of Distinct Characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)||||中等
+1096|[Brace Expansion II](https://leetcode-cn.com/problems/brace-expansion-ii/)||||困难
+1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||||中等
+1106|[Parsing A Boolean Expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/)||||困难
