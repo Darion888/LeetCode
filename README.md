@@ -1,1 +1,1 @@
-# LeetCode
+LeetCode刷题GitHub。
