@@ -5,6 +5,7 @@ LeetCode刷题GitHub
 * [String](#string)
 * [Sort](#sort)
 * [Heap](#heap)
+* [Dynamic Programming](#dynamic-programming)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
