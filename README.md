@@ -1,6 +1,9 @@
-LeetCode刷题GitHub。
+LeetCode刷题GitHub
 ===================
-[Array](#array)
+* [Array](#array)
+* [String](#string)
+* [Sort](#sort)
+* [Heap](#heap)
 
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
