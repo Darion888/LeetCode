@@ -194,7 +194,7 @@ LeetCode刷题GitHub。
 10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||困难
 12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)||||中等
 13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)||||简单
-14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)||||简单
+14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[14_Longest_Common_Prefix.py](https://github.com/Darion888/LeetCode/blob/master/Python3/14_Longest_Common_Prefix.py)|O(*n*)|O(*1*)|简单
 17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||中等
 20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||||简单
 22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||中等
