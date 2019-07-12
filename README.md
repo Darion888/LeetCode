@@ -219,7 +219,7 @@ LeetCode刷题GitHub。
 115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)||||困难
 125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[125_Valid_Palindrome.py](https://github.com/Darion888/LeetCode/blob/master/Python3/125_Valid_Palindrome.py)|O(*n*)|O(*1*)|简单
 126|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)||||困难
-151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)||||中等
+151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[151_Reverse_Words_in_a_String.py](https://github.com/Darion888/LeetCode/blob/master/Python3/151_Reverse_Words_in_a_String.py)|O(*n*)|O(*n*)|中等
 157|[Read N Characters Given Read4](https://leetcode-cn.com/problems/read-n-characters-given-read4/)||||简单
 158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)||||困难
 159|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)||||困难
