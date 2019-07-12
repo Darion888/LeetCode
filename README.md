@@ -355,3 +355,42 @@ LeetCode刷题GitHub。
 1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||||中等
 1057|[Campus Bikes](https://leetcode-cn.com/problems/campus-bikes/)||||中等
 1086|[High Five](https://leetcode-cn.com/problems/high-five/)||||简单
+
+[Heap](https://leetcode-cn.com/problemset/all/?topicSlugs=heap)
+-------
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||||困难
+215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)||||中等
+218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/)||||困难
+239|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)||||困难
+253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)||||中等
+264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)||||中等
+295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)||||困难
+313|[Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/)||||中等
+347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)||||中等
+355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)||||中等
+358|[Rearrange String k Distance Apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart/)||||困难
+373|[Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)||||中等
+378|[Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)||||中等
+407|[Trapping Rain Water II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)||||困难
+451|[Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/)||||中等
+502|[IPO](https://leetcode-cn.com/problems/ipo/)||||困难
+659|[Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)||||中等
+692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)||||中等
+703|[Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||||简单
+719|[Find K-th Smallest Pair Distance](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)||||困难
+743|[Network Delay Time](https://leetcode-cn.com/problems/network-delay-time/)||||中等
+759|[Employee Free Time](https://leetcode-cn.com/problems/employee-free-time/)||||困难
+767|[Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)||||中等
+778|[Swim in Rising Water](https://leetcode-cn.com/problems/swim-in-rising-water/)||||困难
+786|[K-th Smallest Prime Fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)||||困难
+787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)||||中等
+818|[Race Car](https://leetcode-cn.com/problems/race-car/)||||困难
+857|[Minimum Cost to Hire K Workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)||||困难
+864|[Shortest Path to Get All Keys](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys/)||||困难
+871|[Minimum Number of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)||||困难
+882|[Reachable Nodes In Subdivided Graph](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)||||困难
+973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)||||中等
+1046|[Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/)||||简单
+1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||||中等
