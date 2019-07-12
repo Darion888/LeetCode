@@ -317,3 +317,41 @@ LeetCode刷题GitHub。
 1096|[Brace Expansion II](https://leetcode-cn.com/problems/brace-expansion-ii/)||||困难
 1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||||中等
 1106|[Parsing A Boolean Expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/)||||困难
+
+[Sort](https://leetcode-cn.com/problemset/all/?topicSlugs=sort)
+-------
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+56|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)||||中等
+57|[Insert Interval](https://leetcode-cn.com/problems/insert-interval/)||||困难
+75|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)||||中等
+147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)||||中等
+148|[Sort List](https://leetcode-cn.com/problems/sort-list/)||||中等
+164|[Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)||||困难
+179|[Largest Number](https://leetcode-cn.com/problems/largest-number/)||||中等
+220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)||||中等
+242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)||||简单
+252|[Meeting Rooms](https://leetcode-cn.com/problems/meeting-rooms/)||||简单
+253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)||||中等
+274|[H-Index](https://leetcode-cn.com/problems/h-index/)||||中等
+280|[Wiggle Sort](https://leetcode-cn.com/problems/wiggle-sort/)||||中等
+296|[Best Meeting Point](https://leetcode-cn.com/problems/best-meeting-point/)||||困难
+315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)||||困难
+324|[Wiggle Sort II](https://leetcode-cn.com/problems/wiggle-sort-ii/)||||中等
+327|[Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)||||困难
+349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)||||简单
+350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)||||简单
+493|[Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs/)||||困难
+524|[Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)||||中等
+527|[Word Abbreviation](https://leetcode-cn.com/problems/word-abbreviation/)||||困难
+710|[Random Pick with Blacklist](https://leetcode-cn.com/problems/random-pick-with-blacklist/)||||困难
+767|[Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)||||中等
+853|[Car Fleet](https://leetcode-cn.com/problems/car-fleet/)||||中等
+922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)||||简单
+969|[Pancake Sorting](https://leetcode-cn.com/problems/pancake-sorting/)||||中等
+973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)||||中等
+976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)||||简单
+1030|[Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)||||简单
+1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||||中等
+1057|[Campus Bikes](https://leetcode-cn.com/problems/campus-bikes/)||||中等
+1086|[High Five](https://leetcode-cn.com/problems/high-five/)||||简单
