@@ -296,7 +296,7 @@ LeetCode刷题GitHub。
 842|[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)||||中等
 848|[Shifting Letters](https://leetcode-cn.com/problems/shifting-letters/)||||中等
 856|[Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)||||中等
-859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/)||||简单
+859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/)|[859_Buddy_Strings.py](https://github.com/Darion888/LeetCode/blob/master/Python3/859_Buddy_Strings.py)|O(*n*)|O(*1*)|简单
 890|[Find and Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/)||||中等
 893|[Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)||||简单
 899|[Orderly Queue](https://leetcode-cn.com/problems/orderly-queue/)||||困难
