@@ -55,7 +55,7 @@ LeetCode刷题GitHub。
 126	|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)| | | |困难
 128	|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | | |困难
 152	|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | | |中等
-153	|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)| | | |中等
+153	|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[153_Find_Minimum_in_Rotated_Sorted_Array.py](https://github.com/Darion888/LeetCode/blob/master/Python3/153_Find_Minimum_in_Rotated_Sorted_Array.py)|O(*nlogn*) or O(*n*) or O(*logn*)|O(*1*)|中等
 154	|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)| | | |困难
 162 |[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)| | | |中等
 163 |[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/)| | | |中等
