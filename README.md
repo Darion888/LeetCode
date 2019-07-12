@@ -336,7 +336,7 @@ LeetCode刷题GitHub。
 274|[H-Index](https://leetcode-cn.com/problems/h-index/)||||中等
 280|[Wiggle Sort](https://leetcode-cn.com/problems/wiggle-sort/)||||中等
 296|[Best Meeting Point](https://leetcode-cn.com/problems/best-meeting-point/)||||困难
-315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)||||困难
+315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|[315_Count_of_Smaller_Numbers_After_Self.py](https://github.com/Darion888/LeetCode/blob/master/Python3/315_Count_of_Smaller_Numbers_After_Self.py)|O(*n^2*)|O(*n*)|困难
 324|[Wiggle Sort II](https://leetcode-cn.com/problems/wiggle-sort-ii/)||||中等
 327|[Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)||||困难
 349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)||||简单
