@@ -400,3 +400,154 @@ LeetCode刷题GitHub
 973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)||||中等
 1046|[Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/)||||简单
 1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||||中等
+****
+[Dynamic Programming](https://leetcode-cn.com/problemset/all/?topicSlugs=dynamic-programming)
+-------
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)||||中等
+10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||困难
+32|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)||||困难
+44|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)||||困难
+53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)||||简单
+62|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)||||中等
+63|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)||||中等
+64|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)||||中等
+70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)||||简单
+72|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)||||困难
+85|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)||||困难
+87|[Scramble String](https://leetcode-cn.com/problems/scramble-string/)||||困难
+91|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)||||中等
+95|[Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)||||中等
+96|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)||||中等
+97|[Interleaving String](https://leetcode-cn.com/problems/interleaving-string/)||||困难
+115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)||||困难
+120|[Triangle](https://leetcode-cn.com/problems/triangle/)||||中等
+121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)||||简单
+123|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)||||困难
+132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)||||困难
+139|[Word Break](https://leetcode-cn.com/problems/word-break/)||||中等
+140|[Word Break II](https://leetcode-cn.com/problems/word-break-ii/)||||困难
+152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)||||中等
+174|[Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/)||||困难
+188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)||||困难
+198|[House Robber](https://leetcode-cn.com/problems/house-robber/)||||简单
+213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)||||中等
+221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)||||中等
+256|[Paint House](https://leetcode-cn.com/problems/paint-house/)||||简单
+264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)||||中等
+265|[Paint House II](https://leetcode-cn.com/problems/paint-house-ii/)||||困难
+276|[Paint Fence](https://leetcode-cn.com/problems/paint-fence/)||||简单
+279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)||||中等
+300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)||||中等
+303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)||||简单
+304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)||||中等
+309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||||中等
+312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)||||困难
+321|[Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/)||||困难
+322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)||||中等
+338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)||||中等
+343|[Integer Break](https://leetcode-cn.com/problems/integer-break/)||||中等
+351|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/)||||中等
+354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)||||困难
+357|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)||||中等
+361|[Bomb Enemy](https://leetcode-cn.com/problems/bomb-enemy/)||||中等
+363|[Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)||||困难
+368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)||||中等
+375|[Guess Number Higher or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)||||中等
+376|[Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)||||中等
+377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)||||中等
+392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)||||中等
+403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)||||困难
+410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)||||困难
+413|[Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/)||||中等
+416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)||||中等
+418|[Sentence Screen Fitting](https://leetcode-cn.com/problems/sentence-screen-fitting/)||||中等
+446|[Arithmetic Slices II - Subsequence](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)||||困难
+464|[Can I Win](https://leetcode-cn.com/problems/can-i-win/)||||中等
+466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)||||困难
+467|[Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/)||||中等
+471|[Encode String with Shortest Length](https://leetcode-cn.com/problems/encode-string-with-shortest-length/)||||困难
+472|[Concatenated Words](https://leetcode-cn.com/problems/concatenated-words/)||||困难
+474|[Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)||||中等
+486|[Predict the Winner](https://leetcode-cn.com/problems/predict-the-winner/)||||中等
+494|[Target Sum](https://leetcode-cn.com/problems/target-sum/)||||中等
+514|[Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)||||困难
+516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)||||中等
+517|[Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines/)||||困难
+523|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)||||中等
+546|[Remove Boxes](https://leetcode-cn.com/problems/remove-boxes/)||||困难
+552|[Student Attendance Record II](https://leetcode-cn.com/problems/student-attendance-record-ii/)||||困难
+568|[Maximum Vacation Days](https://leetcode-cn.com/problems/maximum-vacation-days/)||||困难
+576|[Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)||||中等
+600|[Non-negative Integers without Consecutive Ones](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)||||困难
+629|[K Inverse Pairs Array](https://leetcode-cn.com/problems/k-inverse-pairs-array/)||||困难
+638|[Shopping Offers](https://leetcode-cn.com/problems/shopping-offers/)||||中等
+639|[Decode Ways II](https://leetcode-cn.com/problems/decode-ways-ii/)||||困难
+646|[Maximum Length of Pair Chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)||||中等
+647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)||||中等
+650|[2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/)||||中等
+651|[4 Keys Keyboard](https://leetcode-cn.com/problems/4-keys-keyboard/)||||中等
+656|[Coin Path](https://leetcode-cn.com/problems/coin-path/)||||困难
+664|[Strange Printer](https://leetcode-cn.com/problems/strange-printer/)||||困难
+673|[Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)||||中等
+688|[Knight Probability in Chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)||||中等
+689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)||||困难
+691|[Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/)||||困难
+698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)||||中等
+712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)||||中等
+714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)||||中等
+718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)||||中等
+727|[Minimum Window Subsequence](https://leetcode-cn.com/problems/minimum-window-subsequence/)||||困难
+730|[Count Different Palindromic Subsequences](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)||||困难
+740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)||||中等
+741|[Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/)||||困难
+746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)||||简单
+750|[Number Of Corner Rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)||||中等
+764|[Largest Plus Sign](https://leetcode-cn.com/problems/largest-plus-sign/)||||中等
+787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)||||中等
+790|[Domino and Tromino Tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)||||中等
+801|[Minimum Swaps To Make Sequences Increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)||||中等
+808|[Soup Servings](https://leetcode-cn.com/problems/soup-servings/)||||中等
+813|[Largest Sum of Averages](https://leetcode-cn.com/problems/largest-sum-of-averages/)||||中等
+818|[Race Car](https://leetcode-cn.com/problems/race-car/)||||困难
+837|[New 21 Game](https://leetcode-cn.com/problems/new-21-game/)||||中等
+838|[Push Dominoes](https://leetcode-cn.com/problems/push-dominoes/)||||中等
+847|[Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)||||困难
+871|[Minimum Number of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)||||困难
+873|[Length of Longest Fibonacci Subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)||||中等
+877|[Stone Game](https://leetcode-cn.com/problems/stone-game/)||||中等
+879|[Profitable Schemes](https://leetcode-cn.com/problems/profitable-schemes/)||||困难
+887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)||||困难
+898|[Bitwise ORs of Subarrays](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)||||中等
+902|[Numbers At Most N Given Digit Set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/)||||困难
+903|[Valid Permutations for DI Sequence](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)||||困难
+920|[Number of Music Playlists](https://leetcode-cn.com/problems/number-of-music-playlists/)||||困难
+931|[Minimum Falling Path Sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)||||中等
+935|[Knight Dialer](https://leetcode-cn.com/problems/knight-dialer/)||||中等
+940|[Distinct Subsequences II](https://leetcode-cn.com/problems/distinct-subsequences-ii/)||||困难
+943|[Find the Shortest Superstring](https://leetcode-cn.com/problems/find-the-shortest-superstring/)||||困难
+956|[Tallest Billboard](https://leetcode-cn.com/problems/tallest-billboard/)||||困难
+960|[Delete Columns to Make Sorted III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)||||困难
+964|[Least Operators to Express Number](https://leetcode-cn.com/problems/least-operators-to-express-number/)||||困难
+967|[Numbers With Same Consecutive Differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)||||中等
+968|[Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)||||困难
+975|[Odd Even Jump](https://leetcode-cn.com/problems/odd-even-jump/)||||困难
+978|[Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/)||||中等
+982|[Triples with Bitwise AND Equal To Zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)||||困难
+983|[Minimum Cost For Tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)||||中等
+1000|[Minimum Cost to Merge Stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)||||困难
+1012|[Numbers With Repeated Digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits/)||||困难
+1024|[Video Stitching](https://leetcode-cn.com/problems/video-stitching/)||||中等
+1025|[Divisor Game](https://leetcode-cn.com/problems/divisor-game/)||||简单
+1027|[Longest Arithmetic Sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence/)||||中等
+1039|[Minimum Score Triangulation of Polygon](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/)||||中等
+1048|[Longest String Chain](https://leetcode-cn.com/problems/longest-string-chain/)||||中等
+1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/)||||中等
+1055|[Shortest Way to Form String](https://leetcode-cn.com/problems/shortest-way-to-form-string/)||||中等
+1058|[Minimize Rounding Error to Meet Target](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target/)||||中等
+1066|[Campus Bikes II](https://leetcode-cn.com/problems/campus-bikes-ii/)||||中等
+1067|[Digit Count in Range](https://leetcode-cn.com/problems/digit-count-in-range/)||||困难
+1074|[Number of Submatrices That Sum to Target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)||||困难
+1092|[Shortest Common Supersequence](https://leetcode-cn.com/problems/shortest-common-supersequence/)||||困难
+1105|[Filling Bookcase Shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/)||||中等
