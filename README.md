@@ -8,7 +8,7 @@ LeetCode刷题GitHub。
 1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|[001_Two_Sum.py](https://github.com/Darion888/LeetCode/blob/master/Python3/001_Two_Sum.py)|O(*n*)|O(*n*)|简单
 4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| | | |困难
 11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)| | | |中等
-15	|[3Sum](https://leetcode-cn.com/problems/3sum/)| | | |中等|
+15	|[3Sum](https://leetcode-cn.com/problems/3sum/)|[015_3Sum.py](https://github.com/Darion888/LeetCode/blob/master/Python3/015_3Sum.py)|O(*n^2*)|O(*n*)|中等|
 16	|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)| | | |中等|
 18	|[4Sum](https://leetcode-cn.com/problems/4sum/)| | | |中等
 26	|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| | | |简单
