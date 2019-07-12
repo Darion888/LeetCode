@@ -1,5 +1,7 @@
 LeetCode刷题GitHub。
 ===================
+[Array](#array)
+
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
 
