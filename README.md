@@ -34,7 +34,7 @@ LeetCode刷题GitHub。
 64	|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)| | | |中等
 66	|[Plus One](https://leetcode-cn.com/problems/plus-one/)| | | |简单
 73	|[Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)| | | |中等
-74	|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)| | | |中等
+74	|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[074_Search_a_2D_Matrix.py](https://github.com/Darion888/LeetCode/blob/master/Python3/074_Search_a_2D_Matrix.py)|O(*m·n*)|O(*1*)|中等
 75	|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | | |中等
 78	|[Subsets](https://leetcode-cn.com/problems/subsets/)| | | |中等
 79	|[Word Search](https://leetcode-cn.com/problems/word-search/)| | | |中等
