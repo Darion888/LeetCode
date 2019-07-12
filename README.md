@@ -1,10 +1,11 @@
 LeetCode刷题GitHub
 ===================
+****
 * [Array](#array)
 * [String](#string)
 * [Sort](#sort)
 * [Heap](#heap)
-
+****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
 
@@ -187,7 +188,7 @@ LeetCode刷题GitHub
 1086	|[High Five](https://leetcode-cn.com/problems/high-five/)| | | |简单
 1089	|[Duplicate Zeros](https://leetcode-cn.com/problems/duplicate-zeros/)| | | |简单
 1099	|[Two Sum Less Than K](https://leetcode-cn.com/problems/two-sum-less-than-k/)| | | |简单
-
+****
 [String](https://leetcode-cn.com/problemset/all/?topicSlugs=string)
 -------
 #|题名|题解|Time|Space|Difficulty|Notes
@@ -322,7 +323,7 @@ LeetCode刷题GitHub
 1096|[Brace Expansion II](https://leetcode-cn.com/problems/brace-expansion-ii/)||||困难
 1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||||中等
 1106|[Parsing A Boolean Expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/)||||困难
-
+****
 [Sort](https://leetcode-cn.com/problemset/all/?topicSlugs=sort)
 -------
 #|题名|题解|Time|Space|Difficulty|Notes
@@ -360,7 +361,7 @@ LeetCode刷题GitHub
 1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||||中等
 1057|[Campus Bikes](https://leetcode-cn.com/problems/campus-bikes/)||||中等
 1086|[High Five](https://leetcode-cn.com/problems/high-five/)||||简单
-
+****
 [Heap](https://leetcode-cn.com/problemset/all/?topicSlugs=heap)
 -------
 #|题名|题解|Time|Space|Difficulty|Notes
