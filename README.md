@@ -440,7 +440,7 @@ LeetCode刷题GitHub
 265|[Paint House II](https://leetcode-cn.com/problems/paint-house-ii/)||||困难
 276|[Paint Fence](https://leetcode-cn.com/problems/paint-fence/)||||简单
 279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)||||中等
-300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)||||中等
+300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[300_Longest_Increasing_Subsequence.py](https://github.com/Darion888/LeetCode/blob/master/Python3/300_Longest_Increasing_Subsequence.py)|O(*n^2*)|O(*n*)|中等
 303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)||||简单
 304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)||||中等
 309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||||中等
