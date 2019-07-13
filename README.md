@@ -335,7 +335,7 @@ LeetCode刷题GitHub
 147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)||||中等
 148|[Sort List](https://leetcode-cn.com/problems/sort-list/)||||中等
 164|[Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)||||困难
-179|[Largest Number](https://leetcode-cn.com/problems/largest-number/)||||中等
+179|[Largest Number](https://leetcode-cn.com/problems/largest-number/)|[179_Largest_Number.py](https://github.com/Darion888/LeetCode/blob/master/Python3/179_Largest_Number.py)|O(*n^2*) or O(*nlgn*)|O(*1*) or O(*n*)|中等
 220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)||||中等
 242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)||||简单
 252|[Meeting Rooms](https://leetcode-cn.com/problems/meeting-rooms/)||||简单
