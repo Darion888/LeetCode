@@ -559,7 +559,7 @@ LeetCode刷题GitHub
 #|题名|题解|Time|Space|Difficulty|Notes
 -|-|-|-|-|-|- 
 2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)||||中等
-19|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)||||中等
+19|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/019_Remove_Nth_Node_From_End_of_List.py)|O(*n*)|O(*n*)|中等
 21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||||简单
 23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||||困难
 24|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)||||中等
@@ -568,10 +568,10 @@ LeetCode刷题GitHub
 82|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)||||中等
 83|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)||||简单
 86|[Partition List](https://leetcode-cn.com/problems/partition-list/)||||中等
-92|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)||||中等
+92|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/092_Reverse_Linked_List_II.py)|O(*n*)|O(*n*)|中等
 109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)||||中等
 138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)||||中等
-141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)||||简单
+141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/141_Linked_List_Cycle.py)|O(*n*)|O(*1*)|简单
 142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)||||中等
 143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)||||中等
 147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)||||中等
