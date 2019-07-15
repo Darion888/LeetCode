@@ -37,7 +37,7 @@ class ListNode:
 class Solution:
     # @return a ListNode
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-        # 所有链表压入一个列表里，然后删除相应的位置。创建新的链表
+        # 思路: 所有链表压入一个列表里，然后删除相应的位置。创建新的链表
         if head ==None:
             return
         stack = []
