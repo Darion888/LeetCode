@@ -29,7 +29,7 @@ class ListNode:
 class Solution:
     # @return a ListNode
     def reverseBetween(self, head: ListNode, m: int, n: int) -> ListNode:
-        # 所有链表压入一个列表里，然后反转相应的位置。创建新的链表
+        # 思路: 所有链表压入一个列表里，然后反转相应的位置。创建新的链表
         if head ==None:
             return
         if m ==n:
