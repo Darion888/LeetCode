@@ -632,7 +632,7 @@ LeetCode刷题GitHub
 199	|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等|
 222	|[Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)||||中等|
 226	|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)||||简单|
-230	|[Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)||||中等|
+230	|[Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/230_Kth_Smallest_Element_in_a_BST.py)|O(*k*)|O(*1*)|中等|
 235	|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||简单|
 236	|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||中等|
 250	|[Count Univalue Subtrees](https://leetcode-cn.com/problems/count-univalue-subtrees/)||||中等|
@@ -734,7 +734,7 @@ LeetCode刷题GitHub
 44	|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)||||困难|
 46	|[Permutations](https://leetcode-cn.com/problems/permutations/)||||中等|
 47	|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)||||中等|
-51	|[N-Queens](https://leetcode-cn.com/problems/n-queens/)||||困难|
+51	|[N-Queens](https://leetcode-cn.com/problems/n-queens/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/051_N_Queens.py)|O(*n!*)|O(*n*)|困难|
 52	|[N-Queens II](https://leetcode-cn.com/problems/n-queens-ii/)||||困难|
 60	|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||中等|
 77	|[Combinations](https://leetcode-cn.com/problems/combinations/)||||中等|
@@ -789,8 +789,8 @@ LeetCode刷题GitHub
 155	|[Min Stack](https://leetcode-cn.com/problems/min-stack/)||||简单|
 173	|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)||||中等|
 224	|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)||||困难|
-225	|[Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)||||简单|
-232	|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)||||简单|
+225	|[Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/225_Implement_Stack_using_Queues.py)|-|-|简单|
+232	|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/232_Implement_Queue_using_Stacks.py)|-|-|简单|
 255	|[Verify Preorder Sequence in Binary Search Tree](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/)||||中等|
 272	|[Closest Binary Search Tree Value II](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/)||||困难|
 316	|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)||||困难|
