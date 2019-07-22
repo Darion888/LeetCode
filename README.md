@@ -594,3 +594,125 @@ LeetCode刷题GitHub
 876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)||||简单
 1019|[Next Greater Node In Linked List](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)||||中等
 ****
+[Tree](https://leetcode-cn.com/problemset/all/?topicSlugs=tree)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+94|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)||||中等|
+95	|[Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)||||中等|
+96	|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)||||中等|
+98	|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)||||中等|
+99	|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)||||困难|
+100	|[Same Tree](https://leetcode-cn.com/problems/same-tree/)||||简单|
+101	|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)||||简单|
+102	|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)||||中等|
+103	|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)||||中等|
+104	|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)||||简单|
+105	|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||中等|
+106	|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||中等|
+107	|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)||||简单|
+108	|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)||||简单|
+110	|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)||||简单|
+111	|[Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)||||简单|
+112	|[Path Sum](https://leetcode-cn.com/problems/path-sum/)||||简单|
+113	|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)||||中等|
+114	|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)||||中等|
+116	|[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)||||中等|
+117	|[Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)||||中等|
+124	|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)||||困难|
+129	|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)||||中等|
+144	|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)||||中等|
+145	|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)||||困难|
+156	|[Binary Tree Upside Down](https://leetcode-cn.com/problems/binary-tree-upside-down/)||||中等|
+173	|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)||||中等|
+199	|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等|
+222	|[Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)||||中等|
+226	|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)||||简单|
+230	|[Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)||||中等|
+235	|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||简单|
+236	|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||中等|
+250	|[Count Univalue Subtrees](https://leetcode-cn.com/problems/count-univalue-subtrees/)||||中等|
+255	|[Verify Preorder Sequence in Binary Search Tree](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/)||||中等|
+257	|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)||||简单|
+270	|[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value/)||||简单|
+272	|[Closest Binary Search Tree Value II](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/)||||困难|
+285	|[Inorder Successor in BST](https://leetcode-cn.com/problems/inorder-successor-in-bst/)||||中等|
+297	|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)||||困难|
+298	|[Binary Tree Longest Consecutive Sequence](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence/)||||中等|
+333	|[Largest BST Subtree](https://leetcode-cn.com/problems/largest-bst-subtree/)||||中等|
+337	|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)||||中等|
+366	|[Find Leaves of Binary Tree](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)||||中等|
+404	|[Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)||||简单|
+426	|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)||||中等|
+428	|[Serialize and Deserialize N-ary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/)||||困难|
+429	|[N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)||||简单|
+431	|[Encode N-ary Tree to Binary Tree](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree/)||||困难|
+437	|[Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/)||||简单|
+449	|[Serialize and Deserialize BST](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/)||||中等|
+450	|[Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)||||中等|
+501	|[Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)||||简单|
+508	|[Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/)||||中等|
+510	|[Inorder Successor in BST II](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/)||||中等|
+513	|[Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)||||中等|
+515	|[Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)||||中等|
+530	|[Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)||||简单|
+536	|[Construct Binary Tree from String](https://leetcode-cn.com/problems/construct-binary-tree-from-string/)||||中等|
+538	|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)||||简单|
+543	|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)||||简单|
+545	|[Boundary of Binary Tree](https://leetcode-cn.com/problems/boundary-of-binary-tree/)||||中等|
+549	|[Binary Tree Longest Consecutive Sequence II](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii/)||||中等|
+559	|[Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)||||简单|
+563	|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/)||||简单|
+572	|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)||||简单|
+582	|[Kill Process](https://leetcode-cn.com/problems/kill-process/)||||中等|
+589	|[N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)||||简单|
+590	|[N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)||||简单|
+606	|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||简单|
+617	|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)||||简单|
+623	|[Add One Row to Tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)||||中等|
+637	|[Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)||||简单|
+652	|[Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/)||||中等|
+653	|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)||||简单|
+654	|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/)||||中等|
+655	|[Print Binary Tree](https://leetcode-cn.com/problems/print-binary-tree/)||||中等|
+662	|[Maximum Width of Binary Tree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)||||中等|
+663	|[Equal Tree Partition](https://leetcode-cn.com/problems/equal-tree-partition/)||||中等|
+666	|[Path Sum IV](https://leetcode-cn.com/problems/path-sum-iv/)||||中等|
+669	|[Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)||||简单|
+671	|[Second Minimum Node In a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)||||简单|
+684	|[Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/)||||中等|
+685	|[Redundant Connection II](https://leetcode-cn.com/problems/redundant-connection-ii/)||||困难|
+687	|[Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/)||||简单|
+700	|[Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)||||简单|
+701	|[Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||||中等|
+742	|[Closest Leaf in a Binary Tree](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree/)||||中等|
+776	|[Split BST](https://leetcode-cn.com/problems/split-bst/)||||中等|
+783	|[Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)||||简单|
+814	|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||||中等|
+834	|[Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)||||困难|
+863	|[All Nodes Distance K in Binary Tree](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)||||中等|
+865	|[Smallest Subtree with all the Deepest Nodes](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/)||||中等|
+872	|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)||||简单|
+889	|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||中等|
+894	|[All Possible Full Binary Trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)||||中等|
+897	|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)||||简单|
+919	|[Complete Binary Tree Inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)||||中等|
+938	|[Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)||||简单|
+951	|[Flip Equivalent Binary Trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)||||中等|
+958	|[Check Completeness of a Binary Tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)||||中等|
+965	|[Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/)||||简单|
+968	|[Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)||||困难|
+971	|[Flip Binary Tree To Match Preorder Traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)||||中等|
+979	|[Distribute Coins in Binary Tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)||||中等|
+987	|[Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)||||中等|
+988	|[Smallest String Starting From Leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)||||中等|
+993	|[Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/)||||简单|
+998	|[Maximum Binary Tree II](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)||||中等|
+1008	|[Construct Binary Search Tree from Preorder Traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)||||中等|
+1022	|[Sum of Root To Leaf Binary Numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/)||||简单|
+1026	|[Maximum Difference Between Node and Ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/)||||中等|
+1028	|[Recover a Tree From Preorder Traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)||||困难|
+1104	|[Path In Zigzag Labelled Binary Tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||||中等|
+1120	|[Maximum Average Subtree](https://leetcode-cn.com/problems/maximum-average-subtree/)||||中等|
+1123	|[Lowest Common Ancestor of Deepest Leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||中等
