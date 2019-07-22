@@ -7,6 +7,7 @@ LeetCode刷题GitHub
 * [Heap](#heap)
 * [Dynamic Programming](#dynamic-programming)
 * [Linked List](#linked-list)
+* [Tree](#tree)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
