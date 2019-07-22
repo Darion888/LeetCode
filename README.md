@@ -9,6 +9,7 @@ LeetCode刷题GitHub
 * [Linked List](#linked-list)
 * [Tree](#tree)
 * [Backtracking](#backtracking)
+* [Stack](#stack)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
@@ -769,4 +770,60 @@ LeetCode刷题GitHub
 1079	|[Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/)||||中等|
 1087	|[Brace Expansion](https://leetcode-cn.com/problems/brace-expansion/)||||中等|
 1088	|[Confusing Number II](https://leetcode-cn.com/problems/confusing-number-ii/)||||困难
+****
+[Stack](https://leetcode-cn.com/problemset/all/?topicSlugs=stack)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||||简单|
+42	|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)||||困难|
+71	|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)||||中等|
+84	|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)||||困难|
+85	|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)||||困难|
+94	|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)||||中等|
+103	|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)||||中等|
+144	|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)||||中等|
+145	|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)||||困难|
+150	|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)||||中等|
+155	|[Min Stack](https://leetcode-cn.com/problems/min-stack/)||||简单|
+173	|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)||||中等|
+224	|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)||||困难|
+225	|[Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)||||简单|
+232	|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)||||简单|
+255	|[Verify Preorder Sequence in Binary Search Tree](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/)||||中等|
+272	|[Closest Binary Search Tree Value II](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/)||||困难|
+316	|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)||||困难|
+331	|[Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)||||中等|
+341	|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)||||中等|
+385	|[Mini Parser](https://leetcode-cn.com/problems/mini-parser/)||||中等|
+394	|[Decode String](https://leetcode-cn.com/problems/decode-string/)||||中等|
+402	|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)||||中等|
+439	|[Ternary Expression Parser](https://leetcode-cn.com/problems/ternary-expression-parser/)||||中等|
+456	|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)||||中等|
+496	|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)||||简单|
+503	|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)||||中等|
+591	|[Tag Validator](https://leetcode-cn.com/problems/tag-validator/)||||困难|
+636	|[Exclusive Time of Functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/)||||中等|
+682	|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)||||简单|
+726	|[Number of Atoms](https://leetcode-cn.com/problems/number-of-atoms/)||||困难|
+735	|[Asteroid Collision](https://leetcode-cn.com/problems/asteroid-collision/)||||中等|
+739	|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)||||中等|
+770	|[Basic Calculator IV](https://leetcode-cn.com/problems/basic-calculator-iv/)||||困难|
+772	|[Basic Calculator III](https://leetcode-cn.com/problems/basic-calculator-iii/)||||困难|
+844	|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)||||简单|
+856	|[Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)||||中等|
+880	|[Decoded String at Index](https://leetcode-cn.com/problems/decoded-string-at-index/)||||中等|
+895	|[Maximum Frequency Stack](https://leetcode-cn.com/problems/maximum-frequency-stack/)||||困难|
+901	|[Online Stock Span](https://leetcode-cn.com/problems/online-stock-span/)||||中等|
+907	|[Sum of Subarray Minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||||中等|
+921	|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)||||中等|
+946	|[Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/)||||中等|
+975	|[Odd Even Jump](https://leetcode-cn.com/problems/odd-even-jump/)||||困难|
+1003	|[Check If Word Is Valid After Substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)||||中等|
+1019	|[Next Greater Node In Linked List](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)||||中等|
+1021	|[Remove Outermost Parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/)||||简单|
+1047	|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)||||简单|
+1063	|[Number of Valid Subarrays](https://leetcode-cn.com/problems/number-of-valid-subarrays/)||||困难|
+1124	|[Longest Well-Performing Interval](https://leetcode-cn.com/problems/longest-well-performing-interval/)||||中等
 ****
