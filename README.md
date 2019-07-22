@@ -8,6 +8,7 @@ LeetCode刷题GitHub
 * [Dynamic Programming](#dynamic-programming)
 * [Linked List](#linked-list)
 * [Tree](#tree)
+* [Backtracking](#backtracking)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
@@ -717,3 +718,55 @@ LeetCode刷题GitHub
 1104	|[Path In Zigzag Labelled Binary Tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||||中等|
 1120	|[Maximum Average Subtree](https://leetcode-cn.com/problems/maximum-average-subtree/)||||中等|
 1123	|[Lowest Common Ancestor of Deepest Leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||中等
+****
+[Backtracking](https://leetcode-cn.com/problemset/all/?topicSlugs=backtracking)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||困难|
+17	|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||中等|
+22	|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||中等|
+37	|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)||||困难|
+39	|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)||||中等|
+40	|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)||||中等|
+44	|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)||||困难|
+46	|[Permutations](https://leetcode-cn.com/problems/permutations/)||||中等|
+47	|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)||||中等|
+51	|[N-Queens](https://leetcode-cn.com/problems/n-queens/)||||困难|
+52	|[N-Queens II](https://leetcode-cn.com/problems/n-queens-ii/)||||困难|
+60	|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||中等|
+77	|[Combinations](https://leetcode-cn.com/problems/combinations/)||||中等|
+78	|[Subsets](https://leetcode-cn.com/problems/subsets/)||||中等|
+79	|[Word Search](https://leetcode-cn.com/problems/word-search/)||||中等|
+89	|[Gray Code](https://leetcode-cn.com/problems/gray-code/)||||中等|
+90	|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)||||中等|
+93	|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)||||中等|
+126	|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)||||困难|
+131	|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)||||中等|
+140	|[Word Break II](https://leetcode-cn.com/problems/word-break-ii/)||||困难|
+211	|[Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)||||中等|
+212	|[Word Search II](https://leetcode-cn.com/problems/word-search-ii/)||||困难|
+216	|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)||||中等|
+254	|[Factor Combinations](https://leetcode-cn.com/problems/factor-combinations/)||||中等|
+267	|[Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/)||||中等|
+291	|[Word Pattern II](https://leetcode-cn.com/problems/word-pattern-ii/)||||困难|
+294	|[Flip Game II](https://leetcode-cn.com/problems/flip-game-ii/)||||中等|
+306	|[Additive Number](https://leetcode-cn.com/problems/additive-number/)||||中等|
+320	|[Generalized Abbreviation](https://leetcode-cn.com/problems/generalized-abbreviation/)||||中等|
+351	|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/)||||中等|
+357	|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)||||中等|
+401	|[Binary Watch](https://leetcode-cn.com/problems/binary-watch/)||||简单|
+411	|[Minimum Unique Word Abbreviation](https://leetcode-cn.com/problems/minimum-unique-word-abbreviation/)||||困难|
+425	|[Word Squares](https://leetcode-cn.com/problems/word-squares/)||||困难|
+526	|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/)||||中等|
+691	|[Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/)||||困难|
+784	|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/)||||简单|
+842	|[Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)||||中等|
+980	|[Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/)||||困难|
+996	|[Number of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)||||困难|
+1066	|[Campus Bikes II](https://leetcode-cn.com/problems/campus-bikes-ii/)||||中等|
+1079	|[Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/)||||中等|
+1087	|[Brace Expansion](https://leetcode-cn.com/problems/brace-expansion/)||||中等|
+1088	|[Confusing Number II](https://leetcode-cn.com/problems/confusing-number-ii/)||||困难
+****
