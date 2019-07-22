@@ -44,7 +44,7 @@ LeetCode刷题GitHub
 73	|[Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)| | | |中等
 74	|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/074_Search_a_2D_Matrix.py)|O(*m·n*)|O(*1*)|中等
 75	|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | | |中等
-78	|[Subsets](https://leetcode-cn.com/problems/subsets/)| | | |中等
+78	|[Subsets](https://leetcode-cn.com/problems/subsets/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/078_Subsets.py)|O(*2^n*)|O(*2^n*)|中等
 79	|[Word Search](https://leetcode-cn.com/problems/word-search/)| | | |中等
 80	|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| | | |中等
 81	|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)| | | |中等
@@ -204,7 +204,7 @@ LeetCode刷题GitHub
 13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)||||简单
 14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/14_Longest_Common_Prefix.py)|O(*n*)|O(*1*)|简单
 17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||中等
-20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||||简单
+20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/020_Valid_Parentheses.py)|O(*n*)|O(*n*)|简单
 22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||中等
 28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)||||简单
 30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)||||困难
@@ -561,7 +561,7 @@ LeetCode刷题GitHub
 2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)||||中等
 19|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/019_Remove_Nth_Node_From_End_of_List.py)|O(*n*)|O(*n*)|中等
 21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||||简单
-23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||||困难
+23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/023_Merge_k_Sorted_Lists.py)|O(*n*)|O(*n*)|困难
 24|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)||||中等
 25|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)||||困难
 61|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)||||中等
@@ -569,15 +569,15 @@ LeetCode刷题GitHub
 83|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)||||简单
 86|[Partition List](https://leetcode-cn.com/problems/partition-list/)||||中等
 92|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/092_Reverse_Linked_List_II.py)|O(*n*)|O(*n*)|中等
-109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)||||中等
+109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/109_Convert_Sorted_List_to_Binary_Search_Tree.py)|O(*n*)|O(*n*)|中等
 138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)||||中等
 141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/141_Linked_List_Cycle.py)|O(*n*)|O(*1*)|简单
 142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)||||中等
 143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)||||中等
 147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)||||中等
-148|[Sort List](https://leetcode-cn.com/problems/sort-list/)||||中等
-160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)||||简单
-203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)||||简单
+148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/148_Sort_List.py)|O(*n*)|O(*n*)|中等
+160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/160_Intersection_of_Two_Linked_Lists.py)|O(*m+n*)|O(*1*)|简单
+203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/203_Remove_Linked_List_Elements.py)|O(*n*)|O(*n*)|简单
 206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)||||简单
 234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)||||简单
 237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)||||简单
@@ -599,20 +599,20 @@ LeetCode刷题GitHub
 
 #|题名|题解|Time|Space|Difficulty|Notes
 -|-|-|-|-|-|- 
-94|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)||||中等|
+94|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/094_Binary_Tree_Inorder_Traversal.py)|O(*n*)|O(*n*)|中等|
 95	|[Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)||||中等|
 96	|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)||||中等|
-98	|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)||||中等|
+98	|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/098_Validate_Binary_Search_Tree.py)|O(*n*)|O(*n*)|中等|
 99	|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)||||困难|
 100	|[Same Tree](https://leetcode-cn.com/problems/same-tree/)||||简单|
-101	|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)||||简单|
-102	|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)||||中等|
+101	|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/101_Symmetric_Tree.py)|O(*n*)|O(*n*)|简单|
+102	|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/102_Binary_Tree_Level_Order_Traversal.py)|O(*n*)|O(*n*)|中等|
 103	|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)||||中等|
 104	|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)||||简单|
 105	|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||中等|
 106	|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||中等|
 107	|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)||||简单|
-108	|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)||||简单|
+108	|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)|O(*n*)|O(*n*)|简单|
 110	|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)||||简单|
 111	|[Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)||||简单|
 112	|[Path Sum](https://leetcode-cn.com/problems/path-sum/)||||简单|
@@ -623,7 +623,7 @@ LeetCode刷题GitHub
 124	|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)||||困难|
 129	|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)||||中等|
 144	|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)||||中等|
-145	|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)||||困难|
+145	|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/145_Binary_Tree_Postorder_Traversal.py)|O(*n*)|O(*n*)|困难|
 156	|[Binary Tree Upside Down](https://leetcode-cn.com/problems/binary-tree-upside-down/)||||中等|
 173	|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)||||中等|
 199	|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等|
@@ -664,7 +664,7 @@ LeetCode刷题GitHub
 549	|[Binary Tree Longest Consecutive Sequence II](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii/)||||中等|
 559	|[Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)||||简单|
 563	|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/)||||简单|
-572	|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)||||简单|
+572	|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/572_Subtree_of_Another_Tree.py)|O(*n*)|O(*n*)|简单|
 582	|[Kill Process](https://leetcode-cn.com/problems/kill-process/)||||中等|
 589	|[N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)||||简单|
 590	|[N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)||||简单|
