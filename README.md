@@ -10,6 +10,7 @@ LeetCode刷题GitHub
 * [Tree](#tree)
 * [Backtracking](#backtracking)
 * [Stack](#stack)
+* [Depth-first Search](#depth-first-search)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
@@ -854,7 +855,7 @@ LeetCode刷题GitHub
 133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/)||||中等
 199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等
 200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)||||中等
-207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)||||中等
+207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/207_Course_Schedule.py)|O(*E+V*)|O(*V*)|中等
 210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)||||中等
 257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)||||简单
 261|[Graph Valid Tree](https://leetcode-cn.com/problems/graph-valid-tree/)||||中等
