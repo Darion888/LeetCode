@@ -827,3 +827,113 @@ LeetCode刷题GitHub
 1063	|[Number of Valid Subarrays](https://leetcode-cn.com/problems/number-of-valid-subarrays/)||||困难|
 1124	|[Longest Well-Performing Interval](https://leetcode-cn.com/problems/longest-well-performing-interval/)||||中等
 ****
+[Depth-first Search](https://leetcode-cn.com/problemset/all/?topicSlugs=depth-first-search)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+98|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)||||中等
+99|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)||||困难
+100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)||||简单
+101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)||||简单
+104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)||||简单
+105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||中等
+106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||中等
+108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)||||简单
+109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)||||中等
+110|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)||||简单
+111|[Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)||||简单
+112|[Path Sum](https://leetcode-cn.com/problems/path-sum/)||||简单
+113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)||||中等
+114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)||||中等
+116|[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)||||中等
+117|[Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)||||中等
+124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)||||困难
+129|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)||||中等
+130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)||||中等
+133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/)||||中等
+199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等
+200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)||||中等
+207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)||||中等
+210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)||||中等
+257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)||||简单
+261|[Graph Valid Tree](https://leetcode-cn.com/problems/graph-valid-tree/)||||中等
+301|[Remove Invalid Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses/)||||困难
+323|[Number of Connected Components in an Undirected Graph](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)||||中等
+329|[Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)||||困难
+332|[Reconstruct Itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary/)||||中等
+337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)||||中等
+339|[Nested List Weight Sum](https://leetcode-cn.com/problems/nested-list-weight-sum/)||||简单
+364|[Nested List Weight Sum II](https://leetcode-cn.com/problems/nested-list-weight-sum-ii/)||||中等
+366|[Find Leaves of Binary Tree](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)||||中等
+394|[Decode String](https://leetcode-cn.com/problems/decode-string/)||||中等
+417|[Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)||||中等
+430|[Flatten a Multilevel Doubly Linked List](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)||||中等
+439|[Ternary Expression Parser](https://leetcode-cn.com/problems/ternary-expression-parser/)||||中等
+472|[Concatenated Words](https://leetcode-cn.com/problems/concatenated-words/)||||困难
+473|[Matchsticks to Square](https://leetcode-cn.com/problems/matchsticks-to-square/)||||中等
+488|[Zuma Game](https://leetcode-cn.com/problems/zuma-game/)||||困难
+489|[Robot Room Cleaner](https://leetcode-cn.com/problems/robot-room-cleaner/)||||困难
+490|[The Maze](https://leetcode-cn.com/problems/the-maze/)||||中等
+491|[Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences/)||||中等
+494|[Target Sum](https://leetcode-cn.com/problems/target-sum/)||||中等
+499|[The Maze III](https://leetcode-cn.com/problems/the-maze-iii/)||||困难
+505|[The Maze II](https://leetcode-cn.com/problems/the-maze-ii/)||||中等
+513|[Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)||||中等
+514|[Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)||||困难
+515|[Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)||||中等
+529|[Minesweeper](https://leetcode-cn.com/problems/minesweeper/)||||中等
+531|[Lonely Pixel I](https://leetcode-cn.com/problems/lonely-pixel-i/)||||中等
+533|[Lonely Pixel II](https://leetcode-cn.com/problems/lonely-pixel-ii/)||||中等
+542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)||||中等
+546|[Remove Boxes](https://leetcode-cn.com/problems/remove-boxes/)||||困难
+547|[Friend Circles](https://leetcode-cn.com/problems/friend-circles/)||||中等
+559|[Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)||||简单
+576|[Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)||||中等
+638|[Shopping Offers](https://leetcode-cn.com/problems/shopping-offers/)||||中等
+664|[Strange Printer](https://leetcode-cn.com/problems/strange-printer/)||||困难
+679|[24 Game](https://leetcode-cn.com/problems/24-game/)||||困难
+685|[Redundant Connection II](https://leetcode-cn.com/problems/redundant-connection-ii/)||||困难
+690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)||||简单
+694|[Number of Distinct Islands](https://leetcode-cn.com/problems/number-of-distinct-islands/)||||中等
+695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)||||中等
+711|[Number of Distinct Islands II](https://leetcode-cn.com/problems/number-of-distinct-islands-ii/)||||困难
+721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)||||中等
+733|[Flood Fill](https://leetcode-cn.com/problems/flood-fill/)||||简单
+737|[Sentence Similarity II](https://leetcode-cn.com/problems/sentence-similarity-ii/)||||中等
+743|[Network Delay Time](https://leetcode-cn.com/problems/network-delay-time/)||||中等
+749|[Contain Virus](https://leetcode-cn.com/problems/contain-virus/)||||困难
+753|[Cracking the Safe](https://leetcode-cn.com/problems/cracking-the-safe/)||||困难
+756|[Pyramid Transition Matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix/)||||中等
+778|[Swim in Rising Water](https://leetcode-cn.com/problems/swim-in-rising-water/)||||困难
+785|[Is Graph Bipartite?](https://leetcode-cn.com/problems/is-graph-bipartite/)||||中等
+802|[Find Eventual Safe States](https://leetcode-cn.com/problems/find-eventual-safe-states/)||||中等
+827|[Making A Large Island](https://leetcode-cn.com/problems/making-a-large-island/)||||困难
+834|[Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)||||困难
+839|[Similar String Groups](https://leetcode-cn.com/problems/similar-string-groups/)||||困难
+841|[Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)||||中等
+851|[Loud and Rich](https://leetcode-cn.com/problems/loud-and-rich/)||||中等
+863|[All Nodes Distance K in Binary Tree](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)||||中等
+872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)||||简单
+886|[Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/)||||中等
+897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)||||简单
+924|[Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/)||||困难
+928|[Minimize Malware Spread II](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)||||困难
+934|[Shortest Bridge](https://leetcode-cn.com/problems/shortest-bridge/)||||中等
+947|[Most Stones Removed with Same Row or Column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)||||中等
+959|[Regions Cut By Slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes/)||||中等
+968|[Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)||||困难
+971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)||||中等
+979|[Distribute Coins in Binary Tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)||||中等
+980|[Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/)||||困难
+988|[Smallest String Starting From Leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)||||中等
+1020|[Number of Enclaves](https://leetcode-cn.com/problems/number-of-enclaves/)||||中等
+1026|[Maximum Difference Between Node and Ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/)||||中等
+1028|[Recover a Tree From Preorder Traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)||||困难
+1034|[Coloring A Border](https://leetcode-cn.com/problems/coloring-a-border/)||||中等
+1059|[All Paths from Source Lead to Destination](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)||||中等
+1061|[Lexicographically Smallest Equivalent String](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string/)||||中等
+1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths/)||||中等
+1102|[Path With Maximum Minimum Value](https://leetcode-cn.com/problems/path-with-maximum-minimum-value/)||||中等
+1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||中等
+****
