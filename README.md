@@ -11,6 +11,7 @@ LeetCode刷题GitHub
 * [Backtracking](#backtracking)
 * [Stack](#stack)
 * [Depth-first Search](#depth-first-search)
+* [Math](#math)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
@@ -938,3 +939,146 @@ LeetCode刷题GitHub
 1102|[Path With Maximum Minimum Value](https://leetcode-cn.com/problems/path-with-maximum-minimum-value/)||||中等
 1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||||中等
 ****
+[Math](https://leetcode-cn.com/problemset/all/?topicSlugs=math)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|- 
+2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)||||中等
+7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)||||简单
+8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)||||中等
+9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)||||简单
+12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)||||中等
+13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)||||简单
+29|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)||||中等
+43|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)||||中等
+50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)||||中等
+60|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||中等
+65|[Valid Number](https://leetcode-cn.com/problems/valid-number/)||||困难
+67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)||||简单
+69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)||||简单
+149|[Max Points on a Line](https://leetcode-cn.com/problems/max-points-on-a-line/)||||困难
+166|[Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)||||中等
+168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)||||简单
+171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/)||||简单
+172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)||||简单
+202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)||||简单
+204|[Count Primes](https://leetcode-cn.com/problems/count-primes/)||||简单
+223|[Rectangle Area](https://leetcode-cn.com/problems/rectangle-area/)||||中等
+224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)||||困难
+231|[Power of Two](https://leetcode-cn.com/problems/power-of-two/)||||简单
+233|[Number of Digit One](https://leetcode-cn.com/problems/number-of-digit-one/)||||困难
+246|[Strobogrammatic Number](https://leetcode-cn.com/problems/strobogrammatic-number/)||||简单
+247|[Strobogrammatic Number II](https://leetcode-cn.com/problems/strobogrammatic-number-ii/)||||中等
+248|[Strobogrammatic Number III](https://leetcode-cn.com/problems/strobogrammatic-number-iii/)||||困难
+258|[Add Digits](https://leetcode-cn.com/problems/add-digits/)||||简单
+263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)||||简单
+264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)||||中等
+268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)||||简单
+273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)||||困难
+279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)||||中等
+296|[Best Meeting Point](https://leetcode-cn.com/problems/best-meeting-point/)||||困难
+313|[Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/)||||中等
+319|[Bulb Switcher](https://leetcode-cn.com/problems/bulb-switcher/)||||中等
+326|[Power of Three](https://leetcode-cn.com/problems/power-of-three/)||||简单
+335|[Self Crossing](https://leetcode-cn.com/problems/self-crossing/)||||困难
+343|[Integer Break](https://leetcode-cn.com/problems/integer-break/)||||中等
+356|[Line Reflection](https://leetcode-cn.com/problems/line-reflection/)||||中等
+357|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)||||中等
+360|[Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/)||||中等
+365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)||||中等
+367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)||||简单
+368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)||||中等
+372|[Super Pow](https://leetcode-cn.com/problems/super-pow/)||||中等
+396|[Rotate Function](https://leetcode-cn.com/problems/rotate-function/)||||中等
+397|[Integer Replacement](https://leetcode-cn.com/problems/integer-replacement/)||||中等
+400|[Nth Digit](https://leetcode-cn.com/problems/nth-digit/)||||简单
+413|[Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/)||||中等
+423|[Reconstruct Original Digits from English](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)||||中等
+441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)||||简单
+453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)||||简单
+458|[Poor Pigs](https://leetcode-cn.com/problems/poor-pigs/)||||困难
+462|[Minimum Moves to Equal Array Elements II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)||||中等
+469|[Convex Polygon](https://leetcode-cn.com/problems/convex-polygon/)||||中等
+478|[Generate Random Point in a Circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)||||中等
+483|[Smallest Good Base](https://leetcode-cn.com/problems/smallest-good-base/)||||困难
+507|[Perfect Number](https://leetcode-cn.com/problems/perfect-number/)||||简单
+517|[Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines/)||||困难
+523|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)||||中等
+535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)||||中等
+537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/)||||中等
+553|[Optimal Division](https://leetcode-cn.com/problems/optimal-division/)||||中等
+573|[Squirrel Simulation](https://leetcode-cn.com/problems/squirrel-simulation/)||||中等
+592|[Fraction Addition and Subtraction](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/)||||中等
+593|[Valid Square](https://leetcode-cn.com/problems/valid-square/)||||中等
+598|[Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/)||||简单
+625|[Minimum Factorization](https://leetcode-cn.com/problems/minimum-factorization/)||||中等
+628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)||||简单
+633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)||||简单
+634|[Find the Derangement of An Array](https://leetcode-cn.com/problems/find-the-derangement-of-an-array/)||||中等
+640|[Solve the Equation](https://leetcode-cn.com/problems/solve-the-equation/)||||中等
+645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)||||简单
+651|[4 Keys Keyboard](https://leetcode-cn.com/problems/4-keys-keyboard/)||||中等
+660|[Remove 9](https://leetcode-cn.com/problems/remove-9/)||||困难
+670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)||||中等
+672|[Bulb Switcher II](https://leetcode-cn.com/problems/bulb-switcher-ii/)||||中等
+728|[Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)||||简单
+753|[Cracking the Safe](https://leetcode-cn.com/problems/cracking-the-safe/)||||困难
+754|[Reach a Number](https://leetcode-cn.com/problems/reach-a-number/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/754_Reach_a_Number.py)|O(*n·logn*)|O(*1*)|简单
+775|[Global and Local Inversions](https://leetcode-cn.com/problems/global-and-local-inversions/)||||中等
+780|[Reaching Points](https://leetcode-cn.com/problems/reaching-points/)||||困难
+781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)||||中等
+782|[Transform to Chessboard](https://leetcode-cn.com/problems/transform-to-chessboard/)||||困难
+789|[Escape The Ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/)||||中等
+794|[Valid Tic-Tac-Toe State](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)||||中等
+800|[Similar RGB Color](https://leetcode-cn.com/problems/similar-rgb-color/)||||简单
+805|[Split Array With Same Average](https://leetcode-cn.com/problems/split-array-with-same-average/)||||困难
+810|[Chalkboard XOR Game](https://leetcode-cn.com/problems/chalkboard-xor-game/)||||困难
+812|[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/)||||简单
+829|[Consecutive Numbers Sum](https://leetcode-cn.com/problems/consecutive-numbers-sum/)||||困难
+836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)||||简单
+858|[Mirror Reflection](https://leetcode-cn.com/problems/mirror-reflection/)||||中等
+866|[Prime Palindrome](https://leetcode-cn.com/problems/prime-palindrome/)||||中等
+868|[Binary Gap](https://leetcode-cn.com/problems/binary-gap/)||||简单
+869|[Reordered Power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/)||||中等
+877|[Stone Game](https://leetcode-cn.com/problems/stone-game/)||||中等
+878|[Nth Magical Number](https://leetcode-cn.com/problems/nth-magical-number/)||||困难
+883|[Projection Area of 3D Shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)||||简单
+885|[Spiral Matrix III](https://leetcode-cn.com/problems/spiral-matrix-iii/)||||中等
+887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)||||困难
+891|[Sum of Subsequence Widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/)||||困难
+892|[Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)||||简单
+899|[Orderly Queue](https://leetcode-cn.com/problems/orderly-queue/)||||困难
+902|[Numbers At Most N Given Digit Set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/)||||困难
+906|[Super Palindromes](https://leetcode-cn.com/problems/super-palindromes/)||||困难
+908|[Smallest Range I](https://leetcode-cn.com/problems/smallest-range-i/)||||简单
+910|[Smallest Range II](https://leetcode-cn.com/problems/smallest-range-ii/)||||中等
+914|[X of a Kind in a Deck of Cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)||||简单
+927|[Three Equal Parts](https://leetcode-cn.com/problems/three-equal-parts/)||||困难
+942|[DI String Match](https://leetcode-cn.com/problems/di-string-match/)||||简单
+949|[Largest Time for Given Digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)||||简单
+952|[Largest Component Size by Common Factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)||||困难
+963|[Minimum Area Rectangle II](https://leetcode-cn.com/problems/minimum-area-rectangle-ii/)||||中等
+964|[Least Operators to Express Number](https://leetcode-cn.com/problems/least-operators-to-express-number/)||||困难
+970|[Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/)||||简单
+972|[Equal Rational Numbers](https://leetcode-cn.com/problems/equal-rational-numbers/)||||困难
+976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)||||简单
+991|[Broken Calculator](https://leetcode-cn.com/problems/broken-calculator/)||||中等
+996|[Number of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)||||困难
+1006|[Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/)||||中等
+1009|[Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer/)||||简单
+1012|[Numbers With Repeated Digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits/)||||困难
+1015|[Smallest Integer Divisible by K](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/)||||中等
+1017|[Convert to Base -2](https://leetcode-cn.com/problems/convert-to-base-2/)||||中等
+1025|[Divisor Game](https://leetcode-cn.com/problems/divisor-game/)||||简单
+1037|[Valid Boomerang](https://leetcode-cn.com/problems/valid-boomerang/)||||简单
+1041|[Robot Bounded In Circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)||||简单
+1056|[Confusing Number](https://leetcode-cn.com/problems/confusing-number/)||||简单
+1058|[Minimize Rounding Error to Meet Target](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target/)||||中等
+1067|[Digit Count in Range](https://leetcode-cn.com/problems/digit-count-in-range/)||||困难
+1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)||||中等
+1088|[Confusing Number II](https://leetcode-cn.com/problems/confusing-number-ii/)||||困难
+1093|[Statistics from a Large Sample](https://leetcode-cn.com/problems/statistics-from-a-large-sample/)||||中等
+1103|[Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)||||简单
+1104|[Path In Zigzag Labelled Binary Tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||||中等
+1121|[Divide Array Into Increasing Sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)||||困难
