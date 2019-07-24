@@ -41,7 +41,7 @@ LeetCode刷题GitHub
 56	|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | | |中等
 57	|[Insert Interval](https://leetcode-cn.com/problems/insert-interval/)| | | |困难
 59	|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)| | | |中等
-62	|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)| | | |中等
+62	|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/062_Unique_Paths.py)|O(*m·n*)|O(*n*)|中等
 63	|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)| | | |中等
 64	|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)| | | |中等
 66	|[Plus One](https://leetcode-cn.com/problems/plus-one/)| | | |简单
