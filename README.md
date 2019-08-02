@@ -61,8 +61,8 @@ LeetCode刷题GitHub
 106	|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| | | |中等
 118	|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)| | | |简单
 119	|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)| | | |简单
-120	|[Triangle](https://leetcode-cn.com/problems/triangle/)| | | |中等
-121	|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| | | |简单
+120	|[Triangle](https://leetcode-cn.com/problems/triangle/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/120_Triangle.py)|O(*sum(N)*)|O(*1*)|中等
+121	|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/121_Best_Time_to_Buy_and_Sell_Stock.py)|O(*N*)|O(*1*)|简单
 122	|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| | | |简单
 123	|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)| | | |困难
 126	|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)| | | |困难
@@ -134,7 +134,7 @@ LeetCode刷题GitHub
 723	|[Candy Crush](https://leetcode-cn.com/problems/candy-crush/)| | | |中等
 724	|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)| | | |简单
 729	|[My Calendar I](https://leetcode-cn.com/problems/my-calendar-i/)| | | |中等
-746	|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| | | |简单
+746	|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/746_Min_Cost_Climbing_Stairs.py)|O(*N*)|O(*1*)|简单
 747	|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| | | |简单
 755	|[Pour Water](https://leetcode-cn.com/problems/pour-water/)| | | |中等
 766	|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| | | |简单
