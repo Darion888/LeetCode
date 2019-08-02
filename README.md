@@ -66,7 +66,7 @@ LeetCode刷题GitHub
 122	|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| | | |简单
 123	|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)| | | |困难
 126	|[Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/)| | | |困难
-128	|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | | |困难
+128	|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/128_Longest_Consecutive_Sequence.py)|O(*N*)|O(*1*)|困难
 152	|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | | |中等
 153	|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/153_Find_Minimum_in_Rotated_Sorted_Array.py)|O(*nlogn*) or O(*n*) or O(*logn*)|O(*1*)|中等
 154	|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)| | | |困难
@@ -224,7 +224,7 @@ LeetCode刷题GitHub
 68|[Text Justification](https://leetcode-cn.com/problems/text-justification/)||||困难
 71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)||||中等
 72|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)||||困难
-76|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)||||困难
+76|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/076_Minimum_Window_Substring.py)|O(*|S|+|T|*)|O(*|S|+|T|*)|困难
 87|[Scramble String](https://leetcode-cn.com/problems/scramble-string/)||||困难
 91|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)||||中等
 93|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)||||中等
@@ -251,7 +251,7 @@ LeetCode刷题GitHub
 345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)||||简单
 383|[Ransom Note](https://leetcode-cn.com/problems/ransom-note/)||||简单
 385|[Mini Parser](https://leetcode-cn.com/problems/mini-parser/)||||中等
-387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)||||简单
+387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/387_First_Unique_Character_in_a_String.py)|O(*N*)|O(*N*)|简单
 408|[Valid Word Abbreviation](https://leetcode-cn.com/problems/valid-word-abbreviation/)||||简单
 415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)||||简单
 434|[Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)||||简单
@@ -420,7 +420,7 @@ LeetCode刷题GitHub
 62|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)||||中等
 63|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)||||中等
 64|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)||||中等
-70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)||||简单
+70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/070_Climbing_Stairs.py)|O(*N*)|O(*1*)|简单
 72|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)||||困难
 85|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)||||困难
 87|[Scramble String](https://leetcode-cn.com/problems/scramble-string/)||||困难
@@ -429,8 +429,8 @@ LeetCode刷题GitHub
 96|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)||||中等
 97|[Interleaving String](https://leetcode-cn.com/problems/interleaving-string/)||||困难
 115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)||||困难
-120|[Triangle](https://leetcode-cn.com/problems/triangle/)||||中等
-121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)||||简单
+120|[Triangle](https://leetcode-cn.com/problems/triangle/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/120_Triangle.py)|O(*sum(N)*)|O(*1*)|中等
+121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/121_Best_Time_to_Buy_and_Sell_Stock.py)|O(*N*)|O(*1*)|简单
 123|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)||||困难
 132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)||||困难
 139|[Word Break](https://leetcode-cn.com/problems/word-break/)||||中等
@@ -438,8 +438,8 @@ LeetCode刷题GitHub
 152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)||||中等
 174|[Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/)||||困难
 188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)||||困难
-198|[House Robber](https://leetcode-cn.com/problems/house-robber/)||||简单
-213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)||||中等
+198|[House Robber](https://leetcode-cn.com/problems/house-robber/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/198_House_Robber.py)|O(*N*)|O(*1*)|简单
+213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/213_House_Robber_II.py)|O(*N*)|O(*1*)|中等
 221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)||||中等
 256|[Paint House](https://leetcode-cn.com/problems/paint-house/)||||简单
 264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)||||中等
@@ -452,7 +452,7 @@ LeetCode刷题GitHub
 309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||||中等
 312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)||||困难
 321|[Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/)||||困难
-322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/322_Coin_Change.py)|O(*n·2^(n/2)*)|O(*n*)|中等
+322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/322_Coin_Change.py)|O(*Sn*)|O(*S*)|中等
 338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)||||中等
 343|[Integer Break](https://leetcode-cn.com/problems/integer-break/)||||中等
 351|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/)||||中等
@@ -509,7 +509,7 @@ LeetCode刷题GitHub
 730|[Count Different Palindromic Subsequences](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)||||困难
 740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)||||中等
 741|[Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/)||||困难
-746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)||||简单
+746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/746_Min_Cost_Climbing_Stairs.py)|O(*N*)|O(*1*)|简单
 750|[Number Of Corner Rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)||||中等
 764|[Largest Plus Sign](https://leetcode-cn.com/problems/largest-plus-sign/)||||中等
 787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)||||中等
@@ -855,7 +855,7 @@ LeetCode刷题GitHub
 130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)||||中等
 133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/)||||中等
 199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)||||中等
-200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)||||中等
+200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/200_Number_of_Islands.py)|O(*M×N*)|O(*M×N*)|中等
 207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/207_Course_Schedule.py)|O(*E+V*)|O(*V*)|中等
 210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)||||中等
 257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)||||简单
