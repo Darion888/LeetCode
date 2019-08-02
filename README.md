@@ -12,6 +12,7 @@ LeetCode刷题GitHub
 * [Stack](#stack)
 * [Depth-first Search](#depth-first-search)
 * [Math](#math)
+* [Sliding Window](#sliding-window)
 ****
 [Array](https://leetcode-cn.com/problemset/all/?topicSlugs=array)
 -------
@@ -1082,3 +1083,26 @@ LeetCode刷题GitHub
 1103|[Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/)||||简单
 1104|[Path In Zigzag Labelled Binary Tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||||中等
 1121|[Divide Array Into Increasing Sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)||||困难
+****
+[Sliding Window](https://leetcode-cn.com/problemset/all/?topicSlugs=sliding-window)
+-------
+
+#|题名|题解|Time|Space|Difficulty|Notes
+-|-|-|-|-|-|-  
+3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)||||中等|
+76	|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)||||困难|
+159	|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)||||困难|
+239	|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)||||困难|
+340	|[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)||||困难|
+424	|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)||||中等|
+480	|[Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median/)||||困难|
+567	|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/567_Permutation_in_String.py)|O(*N*)|O(*N*)|中等|
+727	|[Minimum Window Subsequence](https://leetcode-cn.com/problems/minimum-window-subsequence/)||||困难|
+978	|[Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/)||||中等|
+992	|[Subarrays with K Different Integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)||||困难|
+995	|[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)||||困难|
+1004	|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)||||中等|
+1040	|[Moving Stones Until Consecutive II](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/)||||中等|
+1052	|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)||||中等|
+1074	|[Number of Submatrices That Sum to Target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)||||困难|
+1100	|[Find K-Length Substrings With No Repeated Characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||||中等|
