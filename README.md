@@ -224,7 +224,7 @@ LeetCode刷题GitHub
 68|[Text Justification](https://leetcode-cn.com/problems/text-justification/)||||困难
 71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)||||中等
 72|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)||||困难
-76|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/076_Minimum_Window_Substring.py)|O(*|S|+|T|*)|O(*|S|+|T|*)|困难
+76|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|[Python3](https://github.com/Darion888/LeetCode/blob/master/Python3/076_Minimum_Window_Substring.py)|O(*S+T*)|O(*S+T*)|困难
 87|[Scramble String](https://leetcode-cn.com/problems/scramble-string/)||||困难
 91|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)||||中等
 93|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)||||中等
